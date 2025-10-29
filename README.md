@@ -64,7 +64,7 @@ The project uses:
 1. Navigate to the root folder:
 
     ```bash
-    cd CodeCollab
+    cd CodeCollab-COS60011
     ```
 
 2. Create a virtual environment (recommended):
